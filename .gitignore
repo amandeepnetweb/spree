@@ -56,3 +56,5 @@ vendor/bundle
 */vendor/bundle
 .ignore
 TODO
+config.bat
+node_modules
