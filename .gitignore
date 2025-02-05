@@ -10,7 +10,6 @@
 .idea
 .loadpath
 .project
-.vscode
 public/dispatch.cgi
 public/dispatch.fcgi
 public/dispatch.rb
@@ -56,3 +55,5 @@ vendor/bundle
 */vendor/bundle
 .ignore
 TODO
+config.bat
+node_modules
